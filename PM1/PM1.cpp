@@ -5,9 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello VisualStudio Git!\n";
-
-    std::cout << "新規ブランチでこの行追加!\n";
+    std::cout << "コンフリクト起こすためにリモートで変更\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
